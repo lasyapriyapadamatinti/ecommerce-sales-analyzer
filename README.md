@@ -42,6 +42,7 @@ ecommerce-sales-analyzer/
 │   └── analyzer.py
 ├── README.md
 └── requirements.txt
+```
 
 ## Visualizations
 
