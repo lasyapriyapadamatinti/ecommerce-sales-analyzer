@@ -52,4 +52,4 @@ ecommerce-sales-analyzer/
 ![Daily revenue](outputs/daily_revenue.png)
 
 ### Units Sold by Product
-![Units Sold by Product](outputs/daily_revenue.png)
+![Units Sold by Product](outputs/units_sold_by_product.png)
