@@ -42,3 +42,14 @@ ecommerce-sales-analyzer/
 │   └── analyzer.py
 ├── README.md
 └── requirements.txt
+
+## Visualizations
+
+### Revenue by Category
+![Revenue by category](outputs/revenue_by_category.png)
+
+### Daily Revenue
+![Daily revenue](outputs/daily_revenue.png)
+
+### Units Sold by Product
+![Units Sold by Product](outputs/daily_revenue.png)
