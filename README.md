@@ -30,7 +30,6 @@ This project uses Pandas for data analysis and Matplotlib for data visualization
 
 ## Project Structure
 
-```text
 ecommerce-sales-analyzer/
 ├── data/
 │   └── sales.csv
